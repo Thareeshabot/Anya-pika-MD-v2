@@ -12,7 +12,7 @@ global.headerText = "Anya by Pika" // text for header of menu
 global.DocumentTitle = "MASTER⚔️PIKA" 
 
 
-global.ownername = "👿චුට්ටා😈۝⃟̥̩̩"   // Owner name //        
+global.ownername = "👿චුට්ටා😈"   // Owner name //        
 global.ownernumber = ['94772550280'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
@@ -26,8 +26,8 @@ global.email = "example@exmaple.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
-global.premium = ['94772550280','94740612695']  // available soon
-global.sudo = ['94772550280','94740612695']  // Co - Owners //
+global.premium = ['94772550280','94760187237']  // available soon
+global.sudo = ['94772550280','94760187237']  // Co - Owners //
 
 global.prefa = ['-','🥵','🔥']
 
