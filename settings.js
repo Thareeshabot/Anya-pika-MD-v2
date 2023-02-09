@@ -5,7 +5,7 @@ const chalk = require('chalk')
 global.botname = "Queen Anya" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
 global.author = "𝙋𝙄𝙆𝘼"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
+global.packname = "✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
 global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
 global.headerText = "Anya by Pika" // text for header of menu         
@@ -26,8 +26,8 @@ global.email = "example@exmaple.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
-global.premium = ['94772550280','94760187237']  // available soon
-global.sudo = ['94772550280','94760187237']  // Co - Owners //
+global.premium = ['94772550280','94740612695']  // available soon
+global.sudo = ['94772550280','94740612695']  // Co - Owners //
 
 global.prefa = ['-','🥵','🔥']
 
